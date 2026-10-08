@@ -1,17 +1,25 @@
 # Privacy policy — Magnesia: Co-Op Survival
 
-**Last updated:** 2026-09-04  
+**Hosted URL (Play listing):** https://feritcalisir.github.io/privacy-policy/
+
+**Last updated:** 2026-10-08  
 **Contact:** Use the publisher email listed on the store page.
 
 ## What the game stores
 
-Magnesia saves progress **on your device** only (`user://` profile): diamonds, unlocks, vineyard, quests, achievements, settings (language, music), and best danger / endless wave.
+Magnesia saves progress **on your device** (`user://` profile): diamonds, grapes, character levels and talents, unlocks, vineyard, quests, achievements, and best danger / endless wave. Settings (language, music, visuals) stay on the device only.
 
-The game does **not** require an account and does **not** upload your save to our servers.
+## Google Play Games (Android)
+
+On Android, the game signs in to **Google Play Games** automatically if you use it on your device. When signed in, a copy of the progress profile above is saved to your **Play Games cloud save (Saved Games)**, so it is restored if you reinstall the game or move to a new device. Settings are not uploaded.
+
+This cloud copy is stored by Google under your Google account; we run no servers of our own and do not receive it. Google processes your Play Games player identity and the saved data under the [Google Privacy Policy](https://policies.google.com/privacy).
+
+The game has no account of its own. If you do not use Play Games, progress stays on the device only.
 
 ## Network
 
-The base game has **no online multiplayer**. Network access is only needed if a future optional feature (for example ads or cloud backup) is enabled; that version will update this policy.
+The game has **no online multiplayer**. On Android it uses the network for Play Games sign-in and cloud save. The "Rate the game" button in Settings opens the game's Google Play Store page.
 
 ## Ads and purchases
 
@@ -24,6 +32,7 @@ Magnesia is a general-audience action game. If you mark the listing for children
 ## Your choices
 
 - Uninstall the app to delete local saves on that device.
+- Delete the cloud copy and other Play Games data from your Play Games profile or your Google account settings.
 - Change language / music in Settings.
 - For ad/personalization controls, use the in-game consent form (when present) and your device’s ad settings.
 
@@ -32,3 +41,5 @@ Magnesia is a general-audience action game. If you mark the listing for children
 Material changes to this policy will bump the date above and, for store builds, be reflected in the listing.
 
 Play Console Data safety answers for the current (no-ads) build: [DATA_SAFETY.md](DATA_SAFETY.md).
+
+In-game: Settings opens this policy via `App.PRIVACY_URL`.
